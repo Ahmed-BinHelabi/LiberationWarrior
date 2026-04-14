@@ -9,6 +9,13 @@
 
 ---
 
+## 🎬 Demo
+
+Watch the demo here:  
+👉 [Click to view the demo](https://drive.google.com/file/d/1QyjEiTetgTxnPg-_yor2EjP0KdKMa9fX/view?usp=sharing)
+
+---
+
 ## About the Game
 
 Liberation Warrior is a sprite-based 2D fighting game where a samurai warrior is banished to another dimension by a powerful wizard. Stripped of his world and his honor, the warrior must battle through unknown lands — fighting progressively harder enemies and environments — until he finally returns to face the wizard in an epic multi-phase showdown.
